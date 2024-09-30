@@ -1,0 +1,31 @@
+Define the desired game mechanic or feature. What are you making? 
+
+Outline an objective statement for the design. What question are you trying to answer with your prototype? Why?
+
+
+Detail design rationale. What kind of experience do you envision? How is it innovative or experimental?
+
+---
+
+Gameplay Overview:
+What is the core gameplay loop (e.g., actions that players repeatedly perform)?
+
+
+Target Audience:
+Who is this game or mechanic designed for? (e.g., casual players, hardcore gamers)
+
+Target Platform:
+What platform would this game ideally be made for and why?
+
+Player Experience Goals:
+What specific feelings, moods, or emotional responses do you want players to have?
+
+
+Technical Requirements:
+What tools, platforms, or engines will you use to create the prototype (e.g., Unity, Unreal Engine)?
+
+
+----------
+ 
+ 
+ 
