@@ -1,10 +1,15 @@
-Define the desired game mechanic or feature. What are you making? 
+Define the desired game mechanic or feature. What are you making?
+
+While continuing to use the platformer genre, we would like to test different aspects of the level design and how they add tension and satisfaction to the gameplay of the game. This is designed as a vertical challenge where the player will have limited view of the level surrounding them. This is meant to give suspense to the act of climbing and force the player to be patient and consider the limited environment as they quickly try to navigate the hazards along the walls from which they will be jumping.   
 
 Outline an objective statement for the design. What question are you trying to answer with your prototype? Why?
 
+Our objective statement for this prototype is all about the mechanic and perspective mentioned above. In what ways does the stress and tension of the limited view and continual climb bring satisfaction to completing the level? How does the contrast between the climb and reaching the top of a series of platforms effect the decisions players make as they progress through the level and how does this add to or take away from the satisfaction of completing a difficult level?
+The platformer genre is known for creating intense environments even on a 2D scale. This objective will allow us to test different ways of using this genre to achieve greater satisfaction in completing a level for our players. The more we can understand the impact of an environment and what does and does not work to add tension in the level then the better we will be prepared to incorporate new challenges in a progressing degree of difficulty to our plays. 
 
 Detail design rationale. What kind of experience do you envision? How is it innovative or experimental?
 
+By exploring the many ways that the design of a level can add to the players tension and satisfaction we can incorporate more of these smaller elements into a cohesively designed larger level. Each small mechanic can inform us of the level of difficulty so that the design of levels can match the rate of progressing difficulty that players face. The balance of difficulty and tension helps to bring the greatest satisfaction to players after completing a level. The intention of this design is the isolation and understanding of a single design element that can be used over and over in different ways if it provides the feeling in our players that we desire. If it does not, and creates frustration with a lack of satisfaction, this mechanic may still be leveraged in times where the player must exceed the difficulty of a level in order to obtain something more precious than the final objective (i.e. secret areas or items).
 ---
 
 Gameplay Overview:
