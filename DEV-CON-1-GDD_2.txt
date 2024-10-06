@@ -14,21 +14,22 @@ By exploring the many ways that the design of a level can add to the players ten
 
 Gameplay Overview:
 What is the core gameplay loop (e.g., actions that players repeatedly perform)?
+The core gameplay loop in our vertical platformer consists of wall jumping and avoiding spikes. Players must wall jump to ascend to the top while carefully navigating around spikes. If they hit the spikes, they take damage and lose a life. Players have five lives; if they lose all five, they die and must start over.
 
-
-Target Audience:
 Who is this game or mechanic designed for? (e.g., casual players, hardcore gamers)
+Our mechanic is primarily designed for hardcore gamers. The need to carefully time wall jumps to avoid spikes adds a significant challenge, requiring focus and skill. Players may need several attempts to succeed, but the satisfaction of overcoming the difficulty will make the victory feel rewarding.   
 
 Target Platform:
 What platform would this game ideally be made for and why?
+Our vertical platformer is ideally designed for both PC and consoles. These platforms provide all the necessary controls to execute wall jumps and navigate around spikes. On PC, players can utilize a wide keyboard layout, allowing for precise timing of their jumps. Console players benefit from the multiple buttons on their controllers, which enhance effective wall jumping. Additionally, both PC and console platforms support high-quality graphics and performance, ensuring that the game’s vibrant environments and animations are showcased effectively.
 
 Player Experience Goals:
 What specific feelings, moods, or emotional responses do you want players to have?
-
+We want players to feel focused, accomplished, and excited throughout their experience. Players must navigate around the spikes by carefully timing their wall jumps, which requires concentration. As they successfully avoid the spikes, players will feel excited and accomplished. Overall, our goal is to create an engaging and challenging level that will keep players focused and eager to reach the end.   
 
 Technical Requirements:
 What tools, platforms, or engines will you use to create the prototype (e.g., Unity, Unreal Engine)?
-
+We used Unity for our prototype. From the Unity Asset Store, we obtained the 2D Platformer Controller (with an animated character), which has been incredibly helpful in simplifying our development process. 
 
 ----------
  
